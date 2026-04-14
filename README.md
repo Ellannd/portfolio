@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Modern Web Portfolio | Arnaldo Ramos
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-First, run the development server:
+Este es mi portafolio profesional, construido con un enfoque en la optimización de rendimiento, interfaces interactivas y arquitectura de componentes moderna.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Stack Tecnológico
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Frontend:** [Next.js 14](https://nextjs.org/) (App Router) para una navegación rápida y SEO optimizado.
+* **Estilos:** [Tailwind CSS v4](https://tailwindcss.com/) para un diseño minimalista, responsivo y mantenible.
+* **Animaciones:** [Framer Motion](https://www.framer.com/motion/) para micro-interacciones y efectos de scroll fluidos.
+* **Lenguaje:** TypeScript para garantizar un código robusto y tipado.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## ✨ Características Técnicas del Portafolio
 
-To learn more about Next.js, take a look at the following resources:
+* **Dynamic Spotlight:** Un efecto de iluminación radial que sigue la posición del cursor mediante el manejo eficiente de eventos del DOM.
+* **Terminal Typing Effect:** Simulación de consola interactiva con lógica de auto-ocultado de cursor al finalizar la secuencia.
+* **Responsive Design:** Adaptabilidad total desde dispositivos móviles hasta pantallas Ultra-Wide.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Ejecución Local
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1.  **Clonar:** `git clone https://github.com/Ellannd/portfolio.git`
+2.  **Instalar:** `pnpm install`
+3.  **Correr:** `pnpm dev`
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Desarrollado con precisión técnica por [Arnaldo Ramos](https://github.com/Ellannd)
