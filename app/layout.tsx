@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html suppressHydrationWarning lang="es" className="h-full antialiased">
-      <body className="relative bg-[#0f172a] min-h-screen overflow-x-hidden">
+      <body className="relative bg-[#030712] min-h-screen overflow-x-hidden">
         {children}
       </body>
     </html>
