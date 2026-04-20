@@ -1,4 +1,4 @@
-# 🚀 Modern Web Portfolio | Arnaldo Ramos
+# 🚀 Web Portfolio | Arnaldo Ramos
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
