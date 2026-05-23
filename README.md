@@ -1,11 +1,12 @@
-# 🚀 Modern Web Portfolio | Arnaldo Ramos
+# 🚀 Web Portfolio | Arnaldo Ramos
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-Este es mi portafolio profesional, construido con un enfoque en la optimización de rendimiento, interfaces interactivas y arquitectura de componentes moderna.
+Este es mi portafolio provisional, construido con un enfoque en la optimización de rendimiento, interfaces interactivas y arquitectura de componentes moderna.
+Una práctica referenciando el portafolio de Brittany Chiang.
 
 ---
 
@@ -30,4 +31,4 @@ Este es mi portafolio profesional, construido con un enfoque en la optimización
 3.  **Correr:** `pnpm dev`
 
 ---
-Desarrollado con precisión técnica por [Arnaldo Ramos](https://github.com/Ellannd)
+
