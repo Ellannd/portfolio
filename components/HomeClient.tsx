@@ -7,7 +7,6 @@ import { Inter } from "next/font/google";
 import { motion, useMotionValue, useMotionTemplate } from "framer-motion";
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import Head from "next/head";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -77,13 +76,6 @@ export default function HomeClient({
           background: useMotionTemplate`radial-gradient(300px at ${mouseX}px ${mouseY}px, rgba(59, 130, 246, 0.15), transparent 50%)`,
         }}
       />
-      <Head>
-        <title>Arnaldo Ramos - Full Stack Developer</title>
-        <meta
-          name="google-site-verification"
-          content="y2EV9rD5tJCphxqknEHiynyST6UH-f93P9zrCy5m-n0"
-        />
-      </Head>
       <main
         className={`${inter.variable} font-sans relative z-10 w-full min-h-screen bg-[#030712] text-slate-400 antialiased overflow-x-hidden`}
       >
